@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @celinechen1114
-- 👀 I’m interested in UI UX design
+- 👀 I’m interested in fashion and make-up
 - 🌱 I’m currently studying computer science and biology at UBC 
-- 💞️ I’m looking to collaborate on any fun projects targting univeristy users
+- 💞️ I’m looking to collaborate on any fun projects related with the fashion industry
 - 📫 How to reach me? Idk :) heee
 
 <!---
