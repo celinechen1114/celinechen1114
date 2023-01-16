@@ -2,7 +2,7 @@
 - 👀 I’m interested in UI UX design
 - 🌱 I’m currently studying computer science and biology at UBC 
 - 💞️ I’m looking to collaborate on any fun projects targting univeristy users
-- 📫 How to reach me? Idk :) heee
+- 📫 How to reach me? https://www.linkedin.com/in/celine-chen-4b312b252/
 
 <!---
 celinechen1114/celinechen1114 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
