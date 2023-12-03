@@ -3,6 +3,7 @@
 - 🌱 I’m currently studying computer science at UBC 
 - 💞️ I’m looking to collaborate on any fun projects targeting university users
 - 📫 How to reach me? https://www.linkedin.com/in/celine1114
+- 👩🏻‍💻 Some of my hackathon projects :) https://devpost.com/celinechen1114?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav 
 
 <!---
 celinechen1114/celinechen1114 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
